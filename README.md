@@ -1,5 +1,5 @@
 # 👋 Hi — I'm Pijush Das
-**4th-year B.Tech (CSE) student • Developer • Cybersecurity Enthusiast**
+**4th-year B.Tech (CSE) student • Tchnical Associate Intern at Bassetti India**
 
 📍 Jaynagar Majilpur, India · 📧 pijush-das@outlook.com · 🔗 linkedin.com/in/pijush-das · 🐙 github.com/pijushd
 
